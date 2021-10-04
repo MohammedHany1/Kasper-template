@@ -396,9 +396,7 @@ header nav .form i {
 .design ul li {
     padding: 15px 0;
 }
-.design ul li::before {
-    font-family: "Font Awesome 5 Free";
-    content: '\f108';
+.design ul li .icon {
     font-weight: 900;
     position: relative;
     top: 1px;
